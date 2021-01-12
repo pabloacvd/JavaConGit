@@ -6,5 +6,8 @@ public class Main {
         System.out.println("hola mundo");
         String nombre = "Ada";
         System.out.println("Algo más que quiero subir a Github");
+
+        Integer lio = 29;
+
     }
 }
